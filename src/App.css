@@ -1,0 +1,35 @@
+.footer{
+  background-color: black;
+  height: 20px;
+  margin-top:30px;
+  padding: 50px;
+}
+
+.help{
+  font-size: 14px;
+}
+
+.myBox{
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxWidth{
+  max-width: 600px;
+}
+
+.selectWidth{
+  width: 444.641px; 
+  box-sizing: border-box;
+}
+
+.labelText{
+  font-weight: bold;
+  margin: 10px;
+}
+
+.outputText{
+  font-weight: bold;
+  margin: 10px;
+  font-size: 24px;
+}
